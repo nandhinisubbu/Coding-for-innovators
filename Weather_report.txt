@@ -1,0 +1,36 @@
+
+========================================
+City Name: Coimbatore
+Temperature: 302.15
+Humidity: 70
+Pressure: 1011
+Weather Report: haze
+========================================
+========================================
+City Name: Trichy
+Temperature: 304.15
+Humidity: 70
+Pressure: 1009
+Weather Report: haze
+========================================
+========================================
+City Name: erode
+Temperature: 303.47
+Humidity: 51
+Pressure: 1009
+Weather Report: broken clouds
+========================================
+========================================
+City Name: Thanjavur
+Temperature: 304.15
+Humidity: 70
+Pressure: 1009
+Weather Report: haze
+========================================
+========================================
+City Name: Delhi
+Temperature: 302.67
+Humidity: 29
+Pressure: 1010
+Weather Report: haze
+========================================
